@@ -1,2 +1,2 @@
-# Nonlinear-schrodingers-Equation
+# Nonlinear-Schrodingers-Equation
 Solving nonlinear Schrodinger's equation using split step Fourier method with 4th order R-K
