@@ -1,5 +1,5 @@
-# Nonlinear-Schrodingers-Equation
-Solving nonlinear Schrodinger's equation using split step Fourier method with 4th order R-K
+# Nonlinear-Schrodinger-Equation
+Solving nonlinear Schrodinger equation using split step Fourier method with 4th order R-K
 
 This solver considered 2 to 6 orders of dispersions, Kerr effects, self-steepening, loss, and Raman effect.
 
